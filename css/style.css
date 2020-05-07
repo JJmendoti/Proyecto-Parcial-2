@@ -1,0 +1,29 @@
+body {
+
+    font-family: 'Titillium Web', sans-serif;
+
+}
+
+
+.header {
+    margin-top: 80px;
+}
+
+.page-footer {
+    background-image: url(../img/img5.jpg);
+
+
+}
+
+#content {
+    background-image: url(../img/hospital.png);
+
+}
+
+
+#contai {
+
+    background-image: url(../img/hospital.png);
+
+
+}
